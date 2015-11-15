@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RecyclerViewDemo</string>
+    <string name="title_activity_basic_recyler_view">BasicRecylerView</string>
+    <string name="title_activity_basic_recycler_view">BasicRecyclerView(长按删除Item)</string>
+    <string name="title_activity_grid_recycler_view">GridRecyclerView(长按删除Item)</string>
+    <string name="title_activity_stagger_grid_recycler_view">StaggerGridRecyclerView(长按删除Item)</string>
+    <string name="title_activity_swipe_refresh_grid_recycler_view">SwipeRefreshGridRecyclerView(长按删除Item)</string>
+</resources>
